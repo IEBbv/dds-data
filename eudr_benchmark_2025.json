@@ -1,0 +1,737 @@
+{
+  "meta": {
+    "indicator": "EUDR Country Benchmark",
+    "year": 2025,
+    "description": "EUDR country risk category mapped to L (Low), S (Standard), H (High)",
+    "source": "Uploaded Excel eudr-benchmark-2025.xlsx (ISO2, EU Risk)",
+    "mapping": {
+      "Low": "L",
+      "Standard": "S",
+      "High": "H"
+    },
+    "lastUpdate": "2025-12-01"
+  },
+  "data": [
+    {
+      "iso2": "AE",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "AF",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "AL",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "AM",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "AO",
+      "benchmark": "S"
+    },
+    {
+      "iso2": "AR",
+      "benchmark": "S"
+    },
+    {
+      "iso2": "AT",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "AU",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "AZ",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "BA",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "BB",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "BD",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "BE",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "BF",
+      "benchmark": "S"
+    },
+    {
+      "iso2": "BG",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "BH",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "BI",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "BJ",
+      "benchmark": "S"
+    },
+    {
+      "iso2": "BO",
+      "benchmark": "S"
+    },
+    {
+      "iso2": "BR",
+      "benchmark": "S"
+    },
+    {
+      "iso2": "BS",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "BT",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "BW",
+      "benchmark": "S"
+    },
+    {
+      "iso2": "BY",
+      "benchmark": "H"
+    },
+    {
+      "iso2": "CA",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "CD",
+      "benchmark": "S"
+    },
+    {
+      "iso2": "CF",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "CG",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "CH",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "CI",
+      "benchmark": "S"
+    },
+    {
+      "iso2": "CL",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "CM",
+      "benchmark": "S"
+    },
+    {
+      "iso2": "CN",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "CO",
+      "benchmark": "S"
+    },
+    {
+      "iso2": "CR",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "CU",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "CV",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "CY",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "CZ",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "DE",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "DJ",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "DK",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "DM",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "DO",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "DZ",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "EC",
+      "benchmark": "S"
+    },
+    {
+      "iso2": "EE",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "EG",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "ER",
+      "benchmark": "S"
+    },
+    {
+      "iso2": "ES",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "ET",
+      "benchmark": "S"
+    },
+    {
+      "iso2": "FI",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "FJ",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "FR",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "GA",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "GB",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "GD",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "GE",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "GH",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "GM",
+      "benchmark": "S"
+    },
+    {
+      "iso2": "GN",
+      "benchmark": "S"
+    },
+    {
+      "iso2": "GQ",
+      "benchmark": "S"
+    },
+    {
+      "iso2": "GR",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "GT",
+      "benchmark": "S"
+    },
+    {
+      "iso2": "GW",
+      "benchmark": "S"
+    },
+    {
+      "iso2": "GY",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "HK",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "HN",
+      "benchmark": "S"
+    },
+    {
+      "iso2": "HR",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "HT",
+      "benchmark": "S"
+    },
+    {
+      "iso2": "HU",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "ID",
+      "benchmark": "S"
+    },
+    {
+      "iso2": "IE",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "IL",
+      "benchmark": "S"
+    },
+    {
+      "iso2": "IN",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "IQ",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "IR",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "IS",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "IT",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "JM",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "JO",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "JP",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "KE",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "KG",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "KH",
+      "benchmark": "S"
+    },
+    {
+      "iso2": "KM",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "KP",
+      "benchmark": "H"
+    },
+    {
+      "iso2": "KR",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "KW",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "KZ",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "LA",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "LB",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "LC",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "LK",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "LR",
+      "benchmark": "S"
+    },
+    {
+      "iso2": "LS",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "LT",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "LU",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "LV",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "LY",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "MA",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "MD",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "ME",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "MG",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "MK",
+      "benchmark": "L",
+    },
+    {
+      "iso2": "ML",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "MM",
+      "benchmark": "H"
+    },
+    {
+      "iso2": "MN",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "MR",
+      "benchmark": "S"
+    },
+    {
+      "iso2": "MT",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "MU",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "MV",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "MW",
+      "benchmark": "S"
+    },
+    {
+      "iso2": "MX",
+      "benchmark": "S"
+    },
+    {
+      "iso2": "MY",
+      "benchmark": "S"
+    },
+    {
+      "iso2": "MZ",
+      "benchmark": "S"
+    },
+    {
+      "iso2": "NA",
+      "benchmark": "S",
+      "_note": "ISO2 missing in source; mapped to NA (Namibia)"
+    },
+    {
+      "iso2": "NE",
+      "benchmark": "S"
+    },
+    {
+      "iso2": "NG",
+      "benchmark": "S"
+    },
+    {
+      "iso2": "NI",
+      "benchmark": "S"
+    },
+    {
+      "iso2": "NL",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "NO",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "NP",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "NZ",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "OM",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "PA",
+      "benchmark": "S"
+    },
+    {
+      "iso2": "PE",
+      "benchmark": "S"
+    },
+    {
+      "iso2": "PG",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "PH",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "PK",
+      "benchmark": "S"
+    },
+    {
+      "iso2": "PL",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "PT",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "PY",
+      "benchmark": "S"
+    },
+    {
+      "iso2": "QA",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "RO",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "RS",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "RU",
+      "benchmark": "H"
+    },
+    {
+      "iso2": "RW",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "SA",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "SB",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "SC",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "SD",
+      "benchmark": "S"
+    },
+    {
+      "iso2": "SE",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "SG",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "SI",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "SK",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "SL",
+      "benchmark": "S"
+    },
+    {
+      "iso2": "SN",
+      "benchmark": "S"
+    },
+    {
+      "iso2": "SO",
+      "benchmark": "S"
+    },
+    {
+      "iso2": "SR",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "SS",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "ST",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "SV",
+      "benchmark": "S"
+    },
+    {
+      "iso2": "SY",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "SZ",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "TD",
+      "benchmark": "S"
+    },
+    {
+      "iso2": "TG",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "TH",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "TJ",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "TL",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "TM",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "TN",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "TR",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "TT",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "TW",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "TZ",
+      "benchmark": "S"
+    },
+    {
+      "iso2": "UA",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "UG",
+      "benchmark": "S"
+    },
+    {
+      "iso2": "US",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "UY",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "UZ",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "VC",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "VE",
+      "benchmark": "S"
+    },
+    {
+      "iso2": "VN",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "VU",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "XK",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "YE",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "ZA",
+      "benchmark": "L"
+    },
+    {
+      "iso2": "ZM",
+      "benchmark": "S"
+    },
+    {
+      "iso2": "ZW",
+      "benchmark": "S"
+    }
+  ]
+}
