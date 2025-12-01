@@ -36,7 +36,32 @@
       "text_es": "Benchmark de país EUDR",
       "text_nl": "EUDR-landenbenchmark",
       "text_de": "EUDR-Länderbenchmark"
-    }
+    },
+    {
+      "id": "L",
+      "text_en": "Low risk",
+      "text_fr": "Risque faible",
+      "text_es": "Riesgo bajo",
+      "text_nl": "Laag risico",
+      "text_de": "Geringes Risiko"
+    },
+    {
+      "id": "S",
+      "text_en": "Standard risk",
+      "text_fr": "Risque standard",
+      "text_es": "Riesgo estándar",
+      "text_nl": "Standaard risico",
+      "text_de": "Standardrisiko"
+    },
+    {
+      "id": "H",
+      "text_en": "High risk",
+      "text_fr": "Risque élevé",
+      "text_es": "Riesgo alto",
+      "text_nl": "Hoog risico",
+      "text_de": "Hohes Risiko"
+}
+
   ]
 }
 
