@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "version": 1,
+    "languages": ["en", "fr", "es", "nl", "de"],
+    "description": "UI- en rapportteksten voor EUDR/CPI dashboards"
+  },
+  "strings": [
+    {
+      "id": "label_country",
+      "text_en": "Country",
+      "text_fr": "Pays",
+      "text_es": "País",
+      "text_nl": "Land",
+      "text_de": "Land"
+    },
+    {
+      "id": "label_cpi",
+      "text_en": "CPI",
+      "text_fr": "IPC",
+      "text_es": "IPC",
+      "text_nl": "CPI",
+      "text_de": "CPI"
+    },
+    {
+      "id": "label_cpi_latest",
+      "text_en": "CPI (latest year)",
+      "text_fr": "IPC (année la plus récente)",
+      "text_es": "IPC (último año)",
+      "text_nl": "CPI (laatste jaar)",
+      "text_de": "CPI (letztes Jahr)"
+    },
+    {
+      "id": "label_eudr_benchmark",
+      "text_en": "EUDR country benchmark",
+      "text_fr": "Référentiel national EUDR",
+      "text_es": "Benchmark de país EUDR",
+      "text_nl": "EUDR-landenbenchmark",
+      "text_de": "EUDR-Länderbenchmark"
+    }
+  ]
+}
+
