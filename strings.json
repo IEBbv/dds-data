@@ -60,6 +60,54 @@
       "text_es": "Riesgo alto",
       "text_nl": "Hoog risico",
       "text_de": "Hohes Risiko"
+    },
+    {
+      "id": "label_regulation",
+      "text_en": "Regulation",
+      "text_fr": "Règlement",
+      "text_es": "Reglamento",
+      "text_nl": "Verordening",
+      "text_de": "Verordnung"
+    },
+    {
+      "id": "label_last_modification_date",
+      "text_en": "Last modification date",
+      "text_fr": "Date de dernière modification",
+      "text_es": "Fecha de última modificación",
+      "text_nl": "Datum laatste wijziging",
+      "text_de": "Datum der letzten Änderung"
+    },
+    {
+      "id": "label_last_modified_by",
+      "text_en": "Last modified by",
+      "text_fr": "Dernière modification par",
+      "text_es": "Última modificación por",
+      "text_nl": "Laatst gewijzigd door",
+      "text_de": "Zuletzt geändert von"
+    },
+    {
+      "id": "label_last_review_date",
+      "text_en": "Last review date",
+      "text_fr": "Date de la dernière révision",
+      "text_es": "Fecha de la última revisión",
+      "text_nl": "Datum laatste beoordeling",
+      "text_de": "Datum der letzten Überprüfung"
+    },
+    {
+      "id": "label_last_review_by",
+      "text_en": "Last review by",
+      "text_fr": "Dernière révision par",
+      "text_es": "Última revisión por",
+      "text_nl": "Laatste beoordeling door",
+      "text_de": "Zuletzt überprüft von"
+    },
+    {
+      "id": "label_status",
+      "text_en": "Status",
+      "text_fr": "Statut",
+      "text_es": "Estado",
+      "text_nl": "Status",
+      "text_de": "Status"
     }
   ]
 }
