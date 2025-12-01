@@ -1,6 +1,6 @@
 {
   "meta": {
-    "version": 1,
+    "version": 2,
     "lastUpdate": "2025-12-01",
     "languages": [
       "en",
@@ -9,7 +9,8 @@
       "nl",
       "de"
     ],
-    "source": "Merged from countries_en/fr/es/nl/de.json"
+    "source": "Merged from countries_en/fr/es/nl/de.json",
+    "euFlagDefinition": "is_eu=true for EU member states (27) as of 2025-12-01"
   },
   "countries": [
     {
@@ -20,7 +21,8 @@
       "name_fr": "Afghanistan",
       "name_es": "Afganistán",
       "name_nl": "Afghanistan",
-      "name_de": "Afghanistan"
+      "name_de": "Afghanistan",
+      "is_eu": false
     },
     {
       "iso2": "AL",
@@ -30,7 +32,8 @@
       "name_fr": "Albanie",
       "name_es": "Albania",
       "name_nl": "Albanië",
-      "name_de": "Albanien"
+      "name_de": "Albanien",
+      "is_eu": false
     },
     {
       "iso2": "DZ",
@@ -40,7 +43,8 @@
       "name_fr": "Algérie",
       "name_es": "Argelia",
       "name_nl": "Algerije",
-      "name_de": "Algerien"
+      "name_de": "Algerien",
+      "is_eu": false
     },
     {
       "iso2": "AO",
@@ -50,7 +54,8 @@
       "name_fr": "Angola",
       "name_es": "Angola",
       "name_nl": "Angola",
-      "name_de": "Angola"
+      "name_de": "Angola",
+      "is_eu": false
     },
     {
       "iso2": "AR",
@@ -60,7 +65,8 @@
       "name_fr": "Argentine",
       "name_es": "Argentina",
       "name_nl": "Argentinië",
-      "name_de": "Argentinien"
+      "name_de": "Argentinien",
+      "is_eu": false
     },
     {
       "iso2": "AM",
@@ -70,7 +76,8 @@
       "name_fr": "Arménie",
       "name_es": "Armenia",
       "name_nl": "Armenië",
-      "name_de": "Armenien"
+      "name_de": "Armenien",
+      "is_eu": false
     },
     {
       "iso2": "AU",
@@ -80,7 +87,8 @@
       "name_fr": "Australie",
       "name_es": "Australia",
       "name_nl": "Australië",
-      "name_de": "Australien"
+      "name_de": "Australien",
+      "is_eu": false
     },
     {
       "iso2": "AT",
@@ -90,7 +98,8 @@
       "name_fr": "Autriche",
       "name_es": "Austria",
       "name_nl": "Oostenrijk",
-      "name_de": "Österreich"
+      "name_de": "Österreich",
+      "is_eu": true
     },
     {
       "iso2": "AZ",
@@ -100,7 +109,8 @@
       "name_fr": "Azerbaïdjan",
       "name_es": "Azerbaiyán",
       "name_nl": "Azerbeidzjan",
-      "name_de": "Aserbaidschan"
+      "name_de": "Aserbaidschan",
+      "is_eu": false
     },
     {
       "iso2": "BS",
@@ -110,7 +120,8 @@
       "name_fr": "Bahamas",
       "name_es": "Bahamas",
       "name_nl": "Bahama’s",
-      "name_de": "Bahamas"
+      "name_de": "Bahamas",
+      "is_eu": false
     },
     {
       "iso2": "BH",
@@ -120,7 +131,8 @@
       "name_fr": "Bahreïn",
       "name_es": "Baréin",
       "name_nl": "Bahrein",
-      "name_de": "Bahrain"
+      "name_de": "Bahrain",
+      "is_eu": false
     },
     {
       "iso2": "BD",
@@ -130,7 +142,8 @@
       "name_fr": "Bangladesh",
       "name_es": "Bangladés",
       "name_nl": "Bangladesh",
-      "name_de": "Bangladesch"
+      "name_de": "Bangladesch",
+      "is_eu": false
     },
     {
       "iso2": "BB",
@@ -140,7 +153,8 @@
       "name_fr": "Barbade",
       "name_es": "Barbados",
       "name_nl": "Barbados",
-      "name_de": "Barbados"
+      "name_de": "Barbados",
+      "is_eu": false
     },
     {
       "iso2": "BY",
@@ -150,7 +164,8 @@
       "name_fr": "Biélorussie",
       "name_es": "Bielorrusia",
       "name_nl": "Belarus",
-      "name_de": "Belarus"
+      "name_de": "Belarus",
+      "is_eu": false
     },
     {
       "iso2": "BE",
@@ -160,7 +175,8 @@
       "name_fr": "Belgique",
       "name_es": "Bélgica",
       "name_nl": "België",
-      "name_de": "Belgien"
+      "name_de": "Belgien",
+      "is_eu": true
     },
     {
       "iso2": "BJ",
@@ -170,7 +186,8 @@
       "name_fr": "Bénin",
       "name_es": "Benín",
       "name_nl": "Benin",
-      "name_de": "Benin"
+      "name_de": "Benin",
+      "is_eu": false
     },
     {
       "iso2": "BT",
@@ -180,7 +197,8 @@
       "name_fr": "Bhoutan",
       "name_es": "Bután",
       "name_nl": "Bhutan",
-      "name_de": "Bhutan"
+      "name_de": "Bhutan",
+      "is_eu": false
     },
     {
       "iso2": "BO",
@@ -190,7 +208,8 @@
       "name_fr": "Bolivie",
       "name_es": "Bolivia",
       "name_nl": "Bolivia",
-      "name_de": "Bolivien"
+      "name_de": "Bolivien",
+      "is_eu": false
     },
     {
       "iso2": "BA",
@@ -200,7 +219,8 @@
       "name_fr": "Bosnie-Herzégovine",
       "name_es": "Bosnia y Herzegovina",
       "name_nl": "Bosnië en Herzegovina",
-      "name_de": "Bosnien und Herzegowina"
+      "name_de": "Bosnien und Herzegowina",
+      "is_eu": false
     },
     {
       "iso2": "BW",
@@ -210,7 +230,8 @@
       "name_fr": "Botswana",
       "name_es": "Botsuana",
       "name_nl": "Botswana",
-      "name_de": "Botsuana"
+      "name_de": "Botsuana",
+      "is_eu": false
     },
     {
       "iso2": "BR",
@@ -220,7 +241,8 @@
       "name_fr": "Brésil",
       "name_es": "Brasil",
       "name_nl": "Brazilië",
-      "name_de": "Brasilien"
+      "name_de": "Brasilien",
+      "is_eu": false
     },
     {
       "iso2": "BG",
@@ -230,7 +252,8 @@
       "name_fr": "Bulgarie",
       "name_es": "Bulgaria",
       "name_nl": "Bulgarije",
-      "name_de": "Bulgarien"
+      "name_de": "Bulgarien",
+      "is_eu": true
     },
     {
       "iso2": "BF",
@@ -240,7 +263,8 @@
       "name_fr": "Burkina Faso",
       "name_es": "Burkina Faso",
       "name_nl": "Burkina Faso",
-      "name_de": "Burkina Faso"
+      "name_de": "Burkina Faso",
+      "is_eu": false
     },
     {
       "iso2": "BI",
@@ -250,7 +274,8 @@
       "name_fr": "Burundi",
       "name_es": "Burundi",
       "name_nl": "Burundi",
-      "name_de": "Burundi"
+      "name_de": "Burundi",
+      "is_eu": false
     },
     {
       "iso2": "CV",
@@ -260,7 +285,8 @@
       "name_fr": "Cap-Vert",
       "name_es": "Cabo Verde",
       "name_nl": "Kaapverdië",
-      "name_de": "Cabo Verde"
+      "name_de": "Cabo Verde",
+      "is_eu": false
     },
     {
       "iso2": "KH",
@@ -270,7 +296,8 @@
       "name_fr": "Cambodge",
       "name_es": "Camboya",
       "name_nl": "Cambodja",
-      "name_de": "Kambodscha"
+      "name_de": "Kambodscha",
+      "is_eu": false
     },
     {
       "iso2": "CM",
@@ -280,7 +307,8 @@
       "name_fr": "Cameroun",
       "name_es": "Camerún",
       "name_nl": "Kameroen",
-      "name_de": "Kamerun"
+      "name_de": "Kamerun",
+      "is_eu": false
     },
     {
       "iso2": "CA",
@@ -290,7 +318,8 @@
       "name_fr": "Canada",
       "name_es": "Canadá",
       "name_nl": "Canada",
-      "name_de": "Kanada"
+      "name_de": "Kanada",
+      "is_eu": false
     },
     {
       "iso2": "CF",
@@ -300,7 +329,8 @@
       "name_fr": "République centrafricaine",
       "name_es": "República Centroafricana",
       "name_nl": "Centraal-Afrikaanse Republiek",
-      "name_de": "Zentralafrikanische Republik"
+      "name_de": "Zentralafrikanische Republik",
+      "is_eu": false
     },
     {
       "iso2": "TD",
@@ -310,7 +340,8 @@
       "name_fr": "Tchad",
       "name_es": "Chad",
       "name_nl": "Tsjaad",
-      "name_de": "Tschad"
+      "name_de": "Tschad",
+      "is_eu": false
     },
     {
       "iso2": "CL",
@@ -320,7 +351,8 @@
       "name_fr": "Chili",
       "name_es": "Chile",
       "name_nl": "Chili",
-      "name_de": "Chile"
+      "name_de": "Chile",
+      "is_eu": false
     },
     {
       "iso2": "CN",
@@ -330,7 +362,8 @@
       "name_fr": "Chine",
       "name_es": "China",
       "name_nl": "China",
-      "name_de": "China"
+      "name_de": "China",
+      "is_eu": false
     },
     {
       "iso2": "CO",
@@ -340,7 +373,8 @@
       "name_fr": "Colombie",
       "name_es": "Colombia",
       "name_nl": "Colombia",
-      "name_de": "Kolumbien"
+      "name_de": "Kolumbien",
+      "is_eu": false
     },
     {
       "iso2": "KM",
@@ -350,7 +384,8 @@
       "name_fr": "Comores",
       "name_es": "Comoras",
       "name_nl": "Comoren",
-      "name_de": "Komoren"
+      "name_de": "Komoren",
+      "is_eu": false
     },
     {
       "iso2": "CG",
@@ -360,7 +395,8 @@
       "name_fr": "Congo-Brazzaville",
       "name_es": "Congo",
       "name_nl": "Congo-Brazzaville",
-      "name_de": "Kongo-Brazzaville"
+      "name_de": "Kongo-Brazzaville",
+      "is_eu": false
     },
     {
       "iso2": "CD",
@@ -370,7 +406,8 @@
       "name_fr": "Congo-Kinshasa",
       "name_es": "República Democrática del Congo",
       "name_nl": "Congo-Kinshasa",
-      "name_de": "Kongo-Kinshasa"
+      "name_de": "Kongo-Kinshasa",
+      "is_eu": false
     },
     {
       "iso2": "CR",
@@ -380,7 +417,8 @@
       "name_fr": "Costa Rica",
       "name_es": "Costa Rica",
       "name_nl": "Costa Rica",
-      "name_de": "Costa Rica"
+      "name_de": "Costa Rica",
+      "is_eu": false
     },
     {
       "iso2": "HR",
@@ -390,7 +428,8 @@
       "name_fr": "Croatie",
       "name_es": "Croacia",
       "name_nl": "Kroatië",
-      "name_de": "Kroatien"
+      "name_de": "Kroatien",
+      "is_eu": true
     },
     {
       "iso2": "CU",
@@ -400,7 +439,8 @@
       "name_fr": "Cuba",
       "name_es": "Cuba",
       "name_nl": "Cuba",
-      "name_de": "Kuba"
+      "name_de": "Kuba",
+      "is_eu": false
     },
     {
       "iso2": "CY",
@@ -410,7 +450,8 @@
       "name_fr": "Chypre",
       "name_es": "Chipre",
       "name_nl": "Cyprus",
-      "name_de": "Zypern"
+      "name_de": "Zypern",
+      "is_eu": true
     },
     {
       "iso2": "CZ",
@@ -420,7 +461,8 @@
       "name_fr": "Tchéquie",
       "name_es": "Chequia",
       "name_nl": "Tsjechië",
-      "name_de": "Tschechien"
+      "name_de": "Tschechien",
+      "is_eu": true
     },
     {
       "iso2": "CI",
@@ -430,7 +472,8 @@
       "name_fr": "Côte d’Ivoire",
       "name_es": "Côte d’Ivoire",
       "name_nl": "Ivoorkust",
-      "name_de": "Côte d’Ivoire"
+      "name_de": "Côte d’Ivoire",
+      "is_eu": false
     },
     {
       "iso2": "DK",
@@ -440,7 +483,8 @@
       "name_fr": "Danemark",
       "name_es": "Dinamarca",
       "name_nl": "Denemarken",
-      "name_de": "Dänemark"
+      "name_de": "Dänemark",
+      "is_eu": true
     },
     {
       "iso2": "DJ",
@@ -450,7 +494,8 @@
       "name_fr": "Djibouti",
       "name_es": "Yibuti",
       "name_nl": "Djibouti",
-      "name_de": "Dschibuti"
+      "name_de": "Dschibuti",
+      "is_eu": false
     },
     {
       "iso2": "DM",
@@ -460,7 +505,8 @@
       "name_fr": "Dominique",
       "name_es": "Dominica",
       "name_nl": "Dominica",
-      "name_de": "Dominica"
+      "name_de": "Dominica",
+      "is_eu": false
     },
     {
       "iso2": "DO",
@@ -470,7 +516,8 @@
       "name_fr": "République dominicaine",
       "name_es": "República Dominicana",
       "name_nl": "Dominicaanse Republiek",
-      "name_de": "Dominikanische Republik"
+      "name_de": "Dominikanische Republik",
+      "is_eu": false
     },
     {
       "iso2": "EC",
@@ -480,7 +527,8 @@
       "name_fr": "Équateur",
       "name_es": "Ecuador",
       "name_nl": "Ecuador",
-      "name_de": "Ecuador"
+      "name_de": "Ecuador",
+      "is_eu": false
     },
     {
       "iso2": "EG",
@@ -490,7 +538,8 @@
       "name_fr": "Égypte",
       "name_es": "Egipto",
       "name_nl": "Egypte",
-      "name_de": "Ägypten"
+      "name_de": "Ägypten",
+      "is_eu": false
     },
     {
       "iso2": "SV",
@@ -500,7 +549,8 @@
       "name_fr": "Salvador",
       "name_es": "El Salvador",
       "name_nl": "El Salvador",
-      "name_de": "El Salvador"
+      "name_de": "El Salvador",
+      "is_eu": false
     },
     {
       "iso2": "GQ",
@@ -510,7 +560,8 @@
       "name_fr": "Guinée équatoriale",
       "name_es": "Guinea Ecuatorial",
       "name_nl": "Equatoriaal-Guinea",
-      "name_de": "Äquatorialguinea"
+      "name_de": "Äquatorialguinea",
+      "is_eu": false
     },
     {
       "iso2": "ER",
@@ -520,7 +571,8 @@
       "name_fr": "Érythrée",
       "name_es": "Eritrea",
       "name_nl": "Eritrea",
-      "name_de": "Eritrea"
+      "name_de": "Eritrea",
+      "is_eu": false
     },
     {
       "iso2": "EE",
@@ -530,7 +582,8 @@
       "name_fr": "Estonie",
       "name_es": "Estonia",
       "name_nl": "Estland",
-      "name_de": "Estland"
+      "name_de": "Estland",
+      "is_eu": true
     },
     {
       "iso2": "SZ",
@@ -540,7 +593,8 @@
       "name_fr": "Eswatini",
       "name_es": "Esuatini",
       "name_nl": "Eswatini",
-      "name_de": "Eswatini"
+      "name_de": "Eswatini",
+      "is_eu": false
     },
     {
       "iso2": "ET",
@@ -550,7 +604,8 @@
       "name_fr": "Éthiopie",
       "name_es": "Etiopía",
       "name_nl": "Ethiopië",
-      "name_de": "Äthiopien"
+      "name_de": "Äthiopien",
+      "is_eu": false
     },
     {
       "iso2": "FJ",
@@ -560,7 +615,8 @@
       "name_fr": "Fidji",
       "name_es": "Fiyi",
       "name_nl": "Fiji",
-      "name_de": "Fidschi"
+      "name_de": "Fidschi",
+      "is_eu": false
     },
     {
       "iso2": "FI",
@@ -570,7 +626,8 @@
       "name_fr": "Finlande",
       "name_es": "Finlandia",
       "name_nl": "Finland",
-      "name_de": "Finnland"
+      "name_de": "Finnland",
+      "is_eu": true
     },
     {
       "iso2": "FR",
@@ -580,7 +637,8 @@
       "name_fr": "France",
       "name_es": "Francia",
       "name_nl": "Frankrijk",
-      "name_de": "Frankreich"
+      "name_de": "Frankreich",
+      "is_eu": true
     },
     {
       "iso2": "GA",
@@ -590,7 +648,8 @@
       "name_fr": "Gabon",
       "name_es": "Gabón",
       "name_nl": "Gabon",
-      "name_de": "Gabun"
+      "name_de": "Gabun",
+      "is_eu": false
     },
     {
       "iso2": "GM",
@@ -600,7 +659,8 @@
       "name_fr": "Gambie",
       "name_es": "Gambia",
       "name_nl": "Gambia",
-      "name_de": "Gambia"
+      "name_de": "Gambia",
+      "is_eu": false
     },
     {
       "iso2": "GE",
@@ -610,7 +670,8 @@
       "name_fr": "Géorgie",
       "name_es": "Georgia",
       "name_nl": "Georgië",
-      "name_de": "Georgien"
+      "name_de": "Georgien",
+      "is_eu": false
     },
     {
       "iso2": "DE",
@@ -620,7 +681,8 @@
       "name_fr": "Allemagne",
       "name_es": "Alemania",
       "name_nl": "Duitsland",
-      "name_de": "Deutschland"
+      "name_de": "Deutschland",
+      "is_eu": true
     },
     {
       "iso2": "GH",
@@ -630,7 +692,8 @@
       "name_fr": "Ghana",
       "name_es": "Ghana",
       "name_nl": "Ghana",
-      "name_de": "Ghana"
+      "name_de": "Ghana",
+      "is_eu": false
     },
     {
       "iso2": "GR",
@@ -640,7 +703,8 @@
       "name_fr": "Grèce",
       "name_es": "Grecia",
       "name_nl": "Griekenland",
-      "name_de": "Griechenland"
+      "name_de": "Griechenland",
+      "is_eu": true
     },
     {
       "iso2": "GD",
@@ -650,7 +714,8 @@
       "name_fr": "Grenade",
       "name_es": "Granada",
       "name_nl": "Grenada",
-      "name_de": "Grenada"
+      "name_de": "Grenada",
+      "is_eu": false
     },
     {
       "iso2": "GT",
@@ -660,7 +725,8 @@
       "name_fr": "Guatemala",
       "name_es": "Guatemala",
       "name_nl": "Guatemala",
-      "name_de": "Guatemala"
+      "name_de": "Guatemala",
+      "is_eu": false
     },
     {
       "iso2": "GN",
@@ -670,7 +736,8 @@
       "name_fr": "Guinée",
       "name_es": "Guinea",
       "name_nl": "Guinee",
-      "name_de": "Guinea"
+      "name_de": "Guinea",
+      "is_eu": false
     },
     {
       "iso2": "GW",
@@ -680,7 +747,8 @@
       "name_fr": "Guinée-Bissau",
       "name_es": "Guinea-Bisáu",
       "name_nl": "Guinee-Bissau",
-      "name_de": "Guinea-Bissau"
+      "name_de": "Guinea-Bissau",
+      "is_eu": false
     },
     {
       "iso2": "GY",
@@ -690,7 +758,8 @@
       "name_fr": "Guyana",
       "name_es": "Guyana",
       "name_nl": "Guyana",
-      "name_de": "Guyana"
+      "name_de": "Guyana",
+      "is_eu": false
     },
     {
       "iso2": "HT",
@@ -700,7 +769,8 @@
       "name_fr": "Haïti",
       "name_es": "Haití",
       "name_nl": "Haïti",
-      "name_de": "Haiti"
+      "name_de": "Haiti",
+      "is_eu": false
     },
     {
       "iso2": "HN",
@@ -710,7 +780,8 @@
       "name_fr": "Honduras",
       "name_es": "Honduras",
       "name_nl": "Honduras",
-      "name_de": "Honduras"
+      "name_de": "Honduras",
+      "is_eu": false
     },
     {
       "iso2": "HK",
@@ -720,7 +791,8 @@
       "name_fr": "R.A.S. chinoise de Hong Kong",
       "name_es": "RAE de Hong Kong (China)",
       "name_nl": "Hongkong SAR van China",
-      "name_de": "Sonderverwaltungsregion Hongkong"
+      "name_de": "Sonderverwaltungsregion Hongkong",
+      "is_eu": false
     },
     {
       "iso2": "HU",
@@ -730,7 +802,8 @@
       "name_fr": "Hongrie",
       "name_es": "Hungría",
       "name_nl": "Hongarije",
-      "name_de": "Ungarn"
+      "name_de": "Ungarn",
+      "is_eu": true
     },
     {
       "iso2": "IS",
@@ -740,7 +813,8 @@
       "name_fr": "Islande",
       "name_es": "Islandia",
       "name_nl": "IJsland",
-      "name_de": "Island"
+      "name_de": "Island",
+      "is_eu": false
     },
     {
       "iso2": "IN",
@@ -750,7 +824,8 @@
       "name_fr": "Inde",
       "name_es": "India",
       "name_nl": "India",
-      "name_de": "Indien"
+      "name_de": "Indien",
+      "is_eu": false
     },
     {
       "iso2": "ID",
@@ -760,7 +835,8 @@
       "name_fr": "Indonésie",
       "name_es": "Indonesia",
       "name_nl": "Indonesië",
-      "name_de": "Indonesien"
+      "name_de": "Indonesien",
+      "is_eu": false
     },
     {
       "iso2": "IR",
@@ -770,7 +846,8 @@
       "name_fr": "Iran",
       "name_es": "Irán",
       "name_nl": "Iran",
-      "name_de": "Iran"
+      "name_de": "Iran",
+      "is_eu": false
     },
     {
       "iso2": "IQ",
@@ -780,7 +857,8 @@
       "name_fr": "Irak",
       "name_es": "Irak",
       "name_nl": "Irak",
-      "name_de": "Irak"
+      "name_de": "Irak",
+      "is_eu": false
     },
     {
       "iso2": "IE",
@@ -790,7 +868,8 @@
       "name_fr": "Irlande",
       "name_es": "Irlanda",
       "name_nl": "Ierland",
-      "name_de": "Irland"
+      "name_de": "Irland",
+      "is_eu": true
     },
     {
       "iso2": "IL",
@@ -800,7 +879,8 @@
       "name_fr": "Israël",
       "name_es": "Israel",
       "name_nl": "Israël",
-      "name_de": "Israel"
+      "name_de": "Israel",
+      "is_eu": false
     },
     {
       "iso2": "IT",
@@ -810,7 +890,8 @@
       "name_fr": "Italie",
       "name_es": "Italia",
       "name_nl": "Italië",
-      "name_de": "Italien"
+      "name_de": "Italien",
+      "is_eu": true
     },
     {
       "iso2": "JM",
@@ -820,7 +901,8 @@
       "name_fr": "Jamaïque",
       "name_es": "Jamaica",
       "name_nl": "Jamaica",
-      "name_de": "Jamaika"
+      "name_de": "Jamaika",
+      "is_eu": false
     },
     {
       "iso2": "JP",
@@ -830,7 +912,8 @@
       "name_fr": "Japon",
       "name_es": "Japón",
       "name_nl": "Japan",
-      "name_de": "Japan"
+      "name_de": "Japan",
+      "is_eu": false
     },
     {
       "iso2": "JO",
@@ -840,7 +923,8 @@
       "name_fr": "Jordanie",
       "name_es": "Jordania",
       "name_nl": "Jordanië",
-      "name_de": "Jordanien"
+      "name_de": "Jordanien",
+      "is_eu": false
     },
     {
       "iso2": "KZ",
@@ -850,7 +934,8 @@
       "name_fr": "Kazakhstan",
       "name_es": "Kazajistán",
       "name_nl": "Kazachstan",
-      "name_de": "Kasachstan"
+      "name_de": "Kasachstan",
+      "is_eu": false
     },
     {
       "iso2": "KE",
@@ -860,7 +945,8 @@
       "name_fr": "Kenya",
       "name_es": "Kenia",
       "name_nl": "Kenia",
-      "name_de": "Kenia"
+      "name_de": "Kenia",
+      "is_eu": false
     },
     {
       "iso2": "KP",
@@ -870,7 +956,8 @@
       "name_fr": "Corée du Nord",
       "name_es": "Corea del Norte",
       "name_nl": "Noord-Korea",
-      "name_de": "Nordkorea"
+      "name_de": "Nordkorea",
+      "is_eu": false
     },
     {
       "iso2": "KR",
@@ -880,7 +967,8 @@
       "name_fr": "Corée du Sud",
       "name_es": "Corea del Sur",
       "name_nl": "Zuid-Korea",
-      "name_de": "Südkorea"
+      "name_de": "Südkorea",
+      "is_eu": false
     },
     {
       "iso2": "XK",
@@ -890,7 +978,8 @@
       "name_fr": "Kosovo",
       "name_es": "Kosovo",
       "name_nl": "Kosovo",
-      "name_de": "Kosovo"
+      "name_de": "Kosovo",
+      "is_eu": false
     },
     {
       "iso2": "KW",
@@ -900,7 +989,8 @@
       "name_fr": "Koweït",
       "name_es": "Kuwait",
       "name_nl": "Koeweit",
-      "name_de": "Kuwait"
+      "name_de": "Kuwait",
+      "is_eu": false
     },
     {
       "iso2": "KG",
@@ -910,7 +1000,8 @@
       "name_fr": "Kirghizstan",
       "name_es": "Kirguistán",
       "name_nl": "Kirgizië",
-      "name_de": "Kirgisistan"
+      "name_de": "Kirgisistan",
+      "is_eu": false
     },
     {
       "iso2": "LA",
@@ -920,7 +1011,8 @@
       "name_fr": "Laos",
       "name_es": "Laos",
       "name_nl": "Laos",
-      "name_de": "Laos"
+      "name_de": "Laos",
+      "is_eu": false
     },
     {
       "iso2": "LV",
@@ -930,7 +1022,8 @@
       "name_fr": "Lettonie",
       "name_es": "Letonia",
       "name_nl": "Letland",
-      "name_de": "Lettland"
+      "name_de": "Lettland",
+      "is_eu": true
     },
     {
       "iso2": "LB",
@@ -940,7 +1033,8 @@
       "name_fr": "Liban",
       "name_es": "Líbano",
       "name_nl": "Libanon",
-      "name_de": "Libanon"
+      "name_de": "Libanon",
+      "is_eu": false
     },
     {
       "iso2": "LS",
@@ -950,7 +1044,8 @@
       "name_fr": "Lesotho",
       "name_es": "Lesoto",
       "name_nl": "Lesotho",
-      "name_de": "Lesotho"
+      "name_de": "Lesotho",
+      "is_eu": false
     },
     {
       "iso2": "LR",
@@ -960,7 +1055,8 @@
       "name_fr": "Liberia",
       "name_es": "Liberia",
       "name_nl": "Liberia",
-      "name_de": "Liberia"
+      "name_de": "Liberia",
+      "is_eu": false
     },
     {
       "iso2": "LY",
@@ -970,7 +1066,8 @@
       "name_fr": "Libye",
       "name_es": "Libia",
       "name_nl": "Libië",
-      "name_de": "Libyen"
+      "name_de": "Libyen",
+      "is_eu": false
     },
     {
       "iso2": "LT",
@@ -980,7 +1077,8 @@
       "name_fr": "Lituanie",
       "name_es": "Lituania",
       "name_nl": "Litouwen",
-      "name_de": "Litauen"
+      "name_de": "Litauen",
+      "is_eu": true
     },
     {
       "iso2": "LU",
@@ -990,7 +1088,8 @@
       "name_fr": "Luxembourg",
       "name_es": "Luxemburgo",
       "name_nl": "Luxemburg",
-      "name_de": "Luxemburg"
+      "name_de": "Luxemburg",
+      "is_eu": true
     },
     {
       "iso2": "MG",
@@ -1000,7 +1099,8 @@
       "name_fr": "Madagascar",
       "name_es": "Madagascar",
       "name_nl": "Madagaskar",
-      "name_de": "Madagaskar"
+      "name_de": "Madagaskar",
+      "is_eu": false
     },
     {
       "iso2": "MW",
@@ -1010,7 +1110,8 @@
       "name_fr": "Malawi",
       "name_es": "Malaui",
       "name_nl": "Malawi",
-      "name_de": "Malawi"
+      "name_de": "Malawi",
+      "is_eu": false
     },
     {
       "iso2": "MY",
@@ -1020,7 +1121,8 @@
       "name_fr": "Malaisie",
       "name_es": "Malasia",
       "name_nl": "Maleisië",
-      "name_de": "Malaysia"
+      "name_de": "Malaysia",
+      "is_eu": false
     },
     {
       "iso2": "MV",
@@ -1030,7 +1132,8 @@
       "name_fr": "Maldives",
       "name_es": "Maldivas",
       "name_nl": "Maldiven",
-      "name_de": "Malediven"
+      "name_de": "Malediven",
+      "is_eu": false
     },
     {
       "iso2": "ML",
@@ -1040,7 +1143,8 @@
       "name_fr": "Mali",
       "name_es": "Mali",
       "name_nl": "Mali",
-      "name_de": "Mali"
+      "name_de": "Mali",
+      "is_eu": false
     },
     {
       "iso2": "MT",
@@ -1050,7 +1154,8 @@
       "name_fr": "Malte",
       "name_es": "Malta",
       "name_nl": "Malta",
-      "name_de": "Malta"
+      "name_de": "Malta",
+      "is_eu": true
     },
     {
       "iso2": "MR",
@@ -1060,7 +1165,8 @@
       "name_fr": "Mauritanie",
       "name_es": "Mauritania",
       "name_nl": "Mauritanië",
-      "name_de": "Mauretanien"
+      "name_de": "Mauretanien",
+      "is_eu": false
     },
     {
       "iso2": "MU",
@@ -1070,7 +1176,8 @@
       "name_fr": "Maurice",
       "name_es": "Mauricio",
       "name_nl": "Mauritius",
-      "name_de": "Mauritius"
+      "name_de": "Mauritius",
+      "is_eu": false
     },
     {
       "iso2": "MX",
@@ -1080,7 +1187,8 @@
       "name_fr": "Mexique",
       "name_es": "México",
       "name_nl": "Mexico",
-      "name_de": "Mexiko"
+      "name_de": "Mexiko",
+      "is_eu": false
     },
     {
       "iso2": "MD",
@@ -1090,7 +1198,8 @@
       "name_fr": "Moldavie",
       "name_es": "Moldavia",
       "name_nl": "Moldavië",
-      "name_de": "Republik Moldau"
+      "name_de": "Republik Moldau",
+      "is_eu": false
     },
     {
       "iso2": "MN",
@@ -1100,7 +1209,8 @@
       "name_fr": "Mongolie",
       "name_es": "Mongolia",
       "name_nl": "Mongolië",
-      "name_de": "Mongolei"
+      "name_de": "Mongolei",
+      "is_eu": false
     },
     {
       "iso2": "ME",
@@ -1110,7 +1220,8 @@
       "name_fr": "Monténégro",
       "name_es": "Montenegro",
       "name_nl": "Montenegro",
-      "name_de": "Montenegro"
+      "name_de": "Montenegro",
+      "is_eu": false
     },
     {
       "iso2": "MA",
@@ -1120,7 +1231,8 @@
       "name_fr": "Maroc",
       "name_es": "Marruecos",
       "name_nl": "Marokko",
-      "name_de": "Marokko"
+      "name_de": "Marokko",
+      "is_eu": false
     },
     {
       "iso2": "MZ",
@@ -1130,7 +1242,8 @@
       "name_fr": "Mozambique",
       "name_es": "Mozambique",
       "name_nl": "Mozambique",
-      "name_de": "Mosambik"
+      "name_de": "Mosambik",
+      "is_eu": false
     },
     {
       "iso2": "MM",
@@ -1140,7 +1253,8 @@
       "name_fr": "Myanmar (Birmanie)",
       "name_es": "Myanmar (Birmania)",
       "name_nl": "Myanmar (Birma)",
-      "name_de": "Myanmar"
+      "name_de": "Myanmar",
+      "is_eu": false
     },
     {
       "iso2": "NA",
@@ -1150,7 +1264,8 @@
       "name_fr": "Namibie",
       "name_es": "Namibia",
       "name_nl": "Namibië",
-      "name_de": "Namibia"
+      "name_de": "Namibia",
+      "is_eu": false
     },
     {
       "iso2": "NP",
@@ -1160,7 +1275,8 @@
       "name_fr": "Népal",
       "name_es": "Nepal",
       "name_nl": "Nepal",
-      "name_de": "Nepal"
+      "name_de": "Nepal",
+      "is_eu": false
     },
     {
       "iso2": "NL",
@@ -1170,7 +1286,8 @@
       "name_fr": "Pays-Bas",
       "name_es": "Países Bajos",
       "name_nl": "Nederland",
-      "name_de": "Niederlande"
+      "name_de": "Niederlande",
+      "is_eu": true
     },
     {
       "iso2": "NZ",
@@ -1180,7 +1297,8 @@
       "name_fr": "Nouvelle-Zélande",
       "name_es": "Nueva Zelanda",
       "name_nl": "Nieuw-Zeeland",
-      "name_de": "Neuseeland"
+      "name_de": "Neuseeland",
+      "is_eu": false
     },
     {
       "iso2": "NI",
@@ -1190,7 +1308,8 @@
       "name_fr": "Nicaragua",
       "name_es": "Nicaragua",
       "name_nl": "Nicaragua",
-      "name_de": "Nicaragua"
+      "name_de": "Nicaragua",
+      "is_eu": false
     },
     {
       "iso2": "NE",
@@ -1200,7 +1319,8 @@
       "name_fr": "Niger",
       "name_es": "Níger",
       "name_nl": "Niger",
-      "name_de": "Niger"
+      "name_de": "Niger",
+      "is_eu": false
     },
     {
       "iso2": "NG",
@@ -1210,7 +1330,8 @@
       "name_fr": "Nigeria",
       "name_es": "Nigeria",
       "name_nl": "Nigeria",
-      "name_de": "Nigeria"
+      "name_de": "Nigeria",
+      "is_eu": false
     },
     {
       "iso2": "MK",
@@ -1220,7 +1341,8 @@
       "name_fr": "Macédoine du Nord",
       "name_es": "Macedonia del Norte",
       "name_nl": "Noord-Macedonië",
-      "name_de": "Nordmazedonien"
+      "name_de": "Nordmazedonien",
+      "is_eu": false
     },
     {
       "iso2": "NO",
@@ -1230,7 +1352,8 @@
       "name_fr": "Norvège",
       "name_es": "Noruega",
       "name_nl": "Noorwegen",
-      "name_de": "Norwegen"
+      "name_de": "Norwegen",
+      "is_eu": false
     },
     {
       "iso2": "OM",
@@ -1240,7 +1363,8 @@
       "name_fr": "Oman",
       "name_es": "Omán",
       "name_nl": "Oman",
-      "name_de": "Oman"
+      "name_de": "Oman",
+      "is_eu": false
     },
     {
       "iso2": "PK",
@@ -1250,7 +1374,8 @@
       "name_fr": "Pakistan",
       "name_es": "Pakistán",
       "name_nl": "Pakistan",
-      "name_de": "Pakistan"
+      "name_de": "Pakistan",
+      "is_eu": false
     },
     {
       "iso2": "PA",
@@ -1260,7 +1385,8 @@
       "name_fr": "Panama",
       "name_es": "Panamá",
       "name_nl": "Panama",
-      "name_de": "Panama"
+      "name_de": "Panama",
+      "is_eu": false
     },
     {
       "iso2": "PG",
@@ -1270,7 +1396,8 @@
       "name_fr": "Papouasie-Nouvelle-Guinée",
       "name_es": "Papúa Nueva Guinea",
       "name_nl": "Papoea-Nieuw-Guinea",
-      "name_de": "Papua-Neuguinea"
+      "name_de": "Papua-Neuguinea",
+      "is_eu": false
     },
     {
       "iso2": "PY",
@@ -1280,7 +1407,8 @@
       "name_fr": "Paraguay",
       "name_es": "Paraguay",
       "name_nl": "Paraguay",
-      "name_de": "Paraguay"
+      "name_de": "Paraguay",
+      "is_eu": false
     },
     {
       "iso2": "PE",
@@ -1290,7 +1418,8 @@
       "name_fr": "Pérou",
       "name_es": "Perú",
       "name_nl": "Peru",
-      "name_de": "Peru"
+      "name_de": "Peru",
+      "is_eu": false
     },
     {
       "iso2": "PH",
@@ -1300,7 +1429,8 @@
       "name_fr": "Philippines",
       "name_es": "Filipinas",
       "name_nl": "Filipijnen",
-      "name_de": "Philippinen"
+      "name_de": "Philippinen",
+      "is_eu": false
     },
     {
       "iso2": "PL",
@@ -1310,7 +1440,8 @@
       "name_fr": "Pologne",
       "name_es": "Polonia",
       "name_nl": "Polen",
-      "name_de": "Polen"
+      "name_de": "Polen",
+      "is_eu": true
     },
     {
       "iso2": "PT",
@@ -1320,7 +1451,8 @@
       "name_fr": "Portugal",
       "name_es": "Portugal",
       "name_nl": "Portugal",
-      "name_de": "Portugal"
+      "name_de": "Portugal",
+      "is_eu": true
     },
     {
       "iso2": "QA",
@@ -1330,7 +1462,8 @@
       "name_fr": "Qatar",
       "name_es": "Catar",
       "name_nl": "Qatar",
-      "name_de": "Katar"
+      "name_de": "Katar",
+      "is_eu": false
     },
     {
       "iso2": "RO",
@@ -1340,7 +1473,8 @@
       "name_fr": "Roumanie",
       "name_es": "Rumanía",
       "name_nl": "Roemenië",
-      "name_de": "Rumänien"
+      "name_de": "Rumänien",
+      "is_eu": true
     },
     {
       "iso2": "RU",
@@ -1350,7 +1484,8 @@
       "name_fr": "Russie",
       "name_es": "Rusia",
       "name_nl": "Rusland",
-      "name_de": "Russland"
+      "name_de": "Russland",
+      "is_eu": false
     },
     {
       "iso2": "RW",
@@ -1360,7 +1495,8 @@
       "name_fr": "Rwanda",
       "name_es": "Ruanda",
       "name_nl": "Rwanda",
-      "name_de": "Ruanda"
+      "name_de": "Ruanda",
+      "is_eu": false
     },
     {
       "iso2": "LC",
@@ -1370,7 +1506,8 @@
       "name_fr": "Sainte-Lucie",
       "name_es": "Santa Lucía",
       "name_nl": "Saint Lucia",
-      "name_de": "St. Lucia"
+      "name_de": "St. Lucia",
+      "is_eu": false
     },
     {
       "iso2": "VC",
@@ -1380,7 +1517,8 @@
       "name_fr": "Saint-Vincent-et-les Grenadines",
       "name_es": "San Vicente y las Granadinas",
       "name_nl": "Saint Vincent en de Grenadines",
-      "name_de": "St. Vincent und die Grenadinen"
+      "name_de": "St. Vincent und die Grenadinen",
+      "is_eu": false
     },
     {
       "iso2": "ST",
@@ -1390,7 +1528,8 @@
       "name_fr": "Sao Tomé-et-Principe",
       "name_es": "Santo Tomé y Príncipe",
       "name_nl": "Sao Tomé en Principe",
-      "name_de": "São Tomé und Príncipe"
+      "name_de": "São Tomé und Príncipe",
+      "is_eu": false
     },
     {
       "iso2": "SA",
@@ -1400,7 +1539,8 @@
       "name_fr": "Arabie saoudite",
       "name_es": "Arabia Saudí",
       "name_nl": "Saoedi-Arabië",
-      "name_de": "Saudi-Arabien"
+      "name_de": "Saudi-Arabien",
+      "is_eu": false
     },
     {
       "iso2": "SN",
@@ -1410,7 +1550,8 @@
       "name_fr": "Sénégal",
       "name_es": "Senegal",
       "name_nl": "Senegal",
-      "name_de": "Senegal"
+      "name_de": "Senegal",
+      "is_eu": false
     },
     {
       "iso2": "RS",
@@ -1420,7 +1561,8 @@
       "name_fr": "Serbie",
       "name_es": "Serbia",
       "name_nl": "Servië",
-      "name_de": "Serbien"
+      "name_de": "Serbien",
+      "is_eu": false
     },
     {
       "iso2": "SC",
@@ -1430,7 +1572,8 @@
       "name_fr": "Seychelles",
       "name_es": "Seychelles",
       "name_nl": "Seychellen",
-      "name_de": "Seychellen"
+      "name_de": "Seychellen",
+      "is_eu": false
     },
     {
       "iso2": "SL",
@@ -1440,7 +1583,8 @@
       "name_fr": "Sierra Leone",
       "name_es": "Sierra Leona",
       "name_nl": "Sierra Leone",
-      "name_de": "Sierra Leone"
+      "name_de": "Sierra Leone",
+      "is_eu": false
     },
     {
       "iso2": "SG",
@@ -1450,7 +1594,8 @@
       "name_fr": "Singapour",
       "name_es": "Singapur",
       "name_nl": "Singapore",
-      "name_de": "Singapur"
+      "name_de": "Singapur",
+      "is_eu": false
     },
     {
       "iso2": "SK",
@@ -1460,7 +1605,8 @@
       "name_fr": "Slovaquie",
       "name_es": "Eslovaquia",
       "name_nl": "Slowakije",
-      "name_de": "Slowakei"
+      "name_de": "Slowakei",
+      "is_eu": true
     },
     {
       "iso2": "SI",
@@ -1470,7 +1616,8 @@
       "name_fr": "Slovénie",
       "name_es": "Eslovenia",
       "name_nl": "Slovenië",
-      "name_de": "Slowenien"
+      "name_de": "Slowenien",
+      "is_eu": true
     },
     {
       "iso2": "SB",
@@ -1480,7 +1627,8 @@
       "name_fr": "Îles Salomon",
       "name_es": "Islas Salomón",
       "name_nl": "Salomonseilanden",
-      "name_de": "Salomonen"
+      "name_de": "Salomonen",
+      "is_eu": false
     },
     {
       "iso2": "SO",
@@ -1490,7 +1638,8 @@
       "name_fr": "Somalie",
       "name_es": "Somalia",
       "name_nl": "Somalië",
-      "name_de": "Somalia"
+      "name_de": "Somalia",
+      "is_eu": false
     },
     {
       "iso2": "ZA",
@@ -1500,7 +1649,8 @@
       "name_fr": "Afrique du Sud",
       "name_es": "Sudáfrica",
       "name_nl": "Zuid-Afrika",
-      "name_de": "Südafrika"
+      "name_de": "Südafrika",
+      "is_eu": false
     },
     {
       "iso2": "SS",
@@ -1510,7 +1660,8 @@
       "name_fr": "Soudan du Sud",
       "name_es": "Sudán del Sur",
       "name_nl": "Zuid-Soedan",
-      "name_de": "Südsudan"
+      "name_de": "Südsudan",
+      "is_eu": false
     },
     {
       "iso2": "ES",
@@ -1520,7 +1671,8 @@
       "name_fr": "Espagne",
       "name_es": "España",
       "name_nl": "Spanje",
-      "name_de": "Spanien"
+      "name_de": "Spanien",
+      "is_eu": true
     },
     {
       "iso2": "LK",
@@ -1530,7 +1682,8 @@
       "name_fr": "Sri Lanka",
       "name_es": "Sri Lanka",
       "name_nl": "Sri Lanka",
-      "name_de": "Sri Lanka"
+      "name_de": "Sri Lanka",
+      "is_eu": false
     },
     {
       "iso2": "SD",
@@ -1540,7 +1693,8 @@
       "name_fr": "Soudan",
       "name_es": "Sudán",
       "name_nl": "Soedan",
-      "name_de": "Sudan"
+      "name_de": "Sudan",
+      "is_eu": false
     },
     {
       "iso2": "SR",
@@ -1550,7 +1704,8 @@
       "name_fr": "Suriname",
       "name_es": "Surinam",
       "name_nl": "Suriname",
-      "name_de": "Suriname"
+      "name_de": "Suriname",
+      "is_eu": false
     },
     {
       "iso2": "SE",
@@ -1560,7 +1715,8 @@
       "name_fr": "Suède",
       "name_es": "Suecia",
       "name_nl": "Zweden",
-      "name_de": "Schweden"
+      "name_de": "Schweden",
+      "is_eu": true
     },
     {
       "iso2": "CH",
@@ -1570,7 +1726,8 @@
       "name_fr": "Suisse",
       "name_es": "Suiza",
       "name_nl": "Zwitserland",
-      "name_de": "Schweiz"
+      "name_de": "Schweiz",
+      "is_eu": false
     },
     {
       "iso2": "SY",
@@ -1580,7 +1737,8 @@
       "name_fr": "Syrie",
       "name_es": "Siria",
       "name_nl": "Syrië",
-      "name_de": "Syrien"
+      "name_de": "Syrien",
+      "is_eu": false
     },
     {
       "iso2": "TW",
@@ -1590,7 +1748,8 @@
       "name_fr": "Taïwan",
       "name_es": "Taiwán",
       "name_nl": "Taiwan",
-      "name_de": "Taiwan"
+      "name_de": "Taiwan",
+      "is_eu": false
     },
     {
       "iso2": "TJ",
@@ -1600,7 +1759,8 @@
       "name_fr": "Tadjikistan",
       "name_es": "Tayikistán",
       "name_nl": "Tadzjikistan",
-      "name_de": "Tadschikistan"
+      "name_de": "Tadschikistan",
+      "is_eu": false
     },
     {
       "iso2": "TZ",
@@ -1610,7 +1770,8 @@
       "name_fr": "Tanzanie",
       "name_es": "Tanzania",
       "name_nl": "Tanzania",
-      "name_de": "Tansania"
+      "name_de": "Tansania",
+      "is_eu": false
     },
     {
       "iso2": "TH",
@@ -1620,7 +1781,8 @@
       "name_fr": "Thaïlande",
       "name_es": "Tailandia",
       "name_nl": "Thailand",
-      "name_de": "Thailand"
+      "name_de": "Thailand",
+      "is_eu": false
     },
     {
       "iso2": "TL",
@@ -1630,7 +1792,8 @@
       "name_fr": "Timor oriental",
       "name_es": "Timor-Leste",
       "name_nl": "Oost-Timor",
-      "name_de": "Timor-Leste"
+      "name_de": "Timor-Leste",
+      "is_eu": false
     },
     {
       "iso2": "TG",
@@ -1640,7 +1803,8 @@
       "name_fr": "Togo",
       "name_es": "Togo",
       "name_nl": "Togo",
-      "name_de": "Togo"
+      "name_de": "Togo",
+      "is_eu": false
     },
     {
       "iso2": "TT",
@@ -1650,7 +1814,8 @@
       "name_fr": "Trinité-et-Tobago",
       "name_es": "Trinidad y Tobago",
       "name_nl": "Trinidad en Tobago",
-      "name_de": "Trinidad und Tobago"
+      "name_de": "Trinidad und Tobago",
+      "is_eu": false
     },
     {
       "iso2": "TN",
@@ -1660,7 +1825,8 @@
       "name_fr": "Tunisie",
       "name_es": "Túnez",
       "name_nl": "Tunesië",
-      "name_de": "Tunesien"
+      "name_de": "Tunesien",
+      "is_eu": false
     },
     {
       "iso2": "TR",
@@ -1670,7 +1836,8 @@
       "name_fr": "Turquie",
       "name_es": "Turquía",
       "name_nl": "Turkije",
-      "name_de": "Türkei"
+      "name_de": "Türkei",
+      "is_eu": false
     },
     {
       "iso2": "TM",
@@ -1680,7 +1847,8 @@
       "name_fr": "Turkménistan",
       "name_es": "Turkmenistán",
       "name_nl": "Turkmenistan",
-      "name_de": "Turkmenistan"
+      "name_de": "Turkmenistan",
+      "is_eu": false
     },
     {
       "iso2": "UG",
@@ -1690,7 +1858,8 @@
       "name_fr": "Ouganda",
       "name_es": "Uganda",
       "name_nl": "Oeganda",
-      "name_de": "Uganda"
+      "name_de": "Uganda",
+      "is_eu": false
     },
     {
       "iso2": "UA",
@@ -1700,7 +1869,8 @@
       "name_fr": "Ukraine",
       "name_es": "Ucrania",
       "name_nl": "Oekraïne",
-      "name_de": "Ukraine"
+      "name_de": "Ukraine",
+      "is_eu": false
     },
     {
       "iso2": "AE",
@@ -1710,7 +1880,8 @@
       "name_fr": "Émirats arabes unis",
       "name_es": "Emiratos Árabes Unidos",
       "name_nl": "Verenigde Arabische Emiraten",
-      "name_de": "Vereinigte Arabische Emirate"
+      "name_de": "Vereinigte Arabische Emirate",
+      "is_eu": false
     },
     {
       "iso2": "GB",
@@ -1720,7 +1891,8 @@
       "name_fr": "Royaume-Uni",
       "name_es": "Reino Unido",
       "name_nl": "Verenigd Koninkrijk",
-      "name_de": "Vereinigtes Königreich"
+      "name_de": "Vereinigtes Königreich",
+      "is_eu": false
     },
     {
       "iso2": "US",
@@ -1730,7 +1902,8 @@
       "name_fr": "États-Unis",
       "name_es": "Estados Unidos",
       "name_nl": "Verenigde Staten",
-      "name_de": "Vereinigte Staaten"
+      "name_de": "Vereinigte Staaten",
+      "is_eu": false
     },
     {
       "iso2": "UY",
@@ -1740,7 +1913,8 @@
       "name_fr": "Uruguay",
       "name_es": "Uruguay",
       "name_nl": "Uruguay",
-      "name_de": "Uruguay"
+      "name_de": "Uruguay",
+      "is_eu": false
     },
     {
       "iso2": "UZ",
@@ -1750,7 +1924,8 @@
       "name_fr": "Ouzbékistan",
       "name_es": "Uzbekistán",
       "name_nl": "Oezbekistan",
-      "name_de": "Usbekistan"
+      "name_de": "Usbekistan",
+      "is_eu": false
     },
     {
       "iso2": "VU",
@@ -1760,7 +1935,8 @@
       "name_fr": "Vanuatu",
       "name_es": "Vanuatu",
       "name_nl": "Vanuatu",
-      "name_de": "Vanuatu"
+      "name_de": "Vanuatu",
+      "is_eu": false
     },
     {
       "iso2": "VE",
@@ -1770,7 +1946,8 @@
       "name_fr": "Venezuela",
       "name_es": "Venezuela",
       "name_nl": "Venezuela",
-      "name_de": "Venezuela"
+      "name_de": "Venezuela",
+      "is_eu": false
     },
     {
       "iso2": "VN",
@@ -1780,7 +1957,8 @@
       "name_fr": "Viêt Nam",
       "name_es": "Vietnam",
       "name_nl": "Vietnam",
-      "name_de": "Vietnam"
+      "name_de": "Vietnam",
+      "is_eu": false
     },
     {
       "iso2": "YE",
@@ -1790,7 +1968,8 @@
       "name_fr": "Yémen",
       "name_es": "Yemen",
       "name_nl": "Jemen",
-      "name_de": "Jemen"
+      "name_de": "Jemen",
+      "is_eu": false
     },
     {
       "iso2": "ZM",
@@ -1800,7 +1979,8 @@
       "name_fr": "Zambie",
       "name_es": "Zambia",
       "name_nl": "Zambia",
-      "name_de": "Sambia"
+      "name_de": "Sambia",
+      "is_eu": false
     },
     {
       "iso2": "ZW",
@@ -1810,7 +1990,8 @@
       "name_fr": "Zimbabwe",
       "name_es": "Zimbabue",
       "name_nl": "Zimbabwe",
-      "name_de": "Simbabwe"
+      "name_de": "Simbabwe",
+      "is_eu": false
     }
   ]
 }
