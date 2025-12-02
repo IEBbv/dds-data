@@ -108,6 +108,14 @@
       "text_es": "Estado",
       "text_nl": "Status",
       "text_de": "Status"
+    },
+    {
+      "id": "label_company",
+      "text_en": "Company",
+      "text_fr": "Entreprise",
+      "text_es": "Empresa",
+      "text_nl": "Bedrijf",
+      "text_de": "Unternehmen"
     }
   ]
 }
