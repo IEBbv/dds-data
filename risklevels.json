@@ -1,0 +1,41 @@
+{
+    "meta": {
+        "version": 1,
+        "languages": ["en", "fr", "es", "nl", "de"],
+        "description": "Risk level labels in five languages"
+    },
+    "risk_levels": [
+        {
+            "id": "non_negligible",
+            "text_en": "Non-negligible risk",
+            "text_fr": "Risque non négligeable",
+            "text_es": "Riesgo no despreciable",
+            "text_nl": "Niet-verwaarloosbaar risico",
+            "text_de": "Nicht zu vernachlässigendes Risiko"
+        },
+        {
+            "id": "negligible",
+            "text_en": "Negligible risk",
+            "text_fr": "Risque négligeable",
+            "text_es": "Riesgo despreciable",
+            "text_nl": "Verwaarloosbaar risico",
+            "text_de": "Vernachlässigbares Risiko"
+        },
+        {
+            "id": "no_risk",
+            "text_en": "No risk",
+            "text_fr": "Aucun risque",
+            "text_es": "Sin riesgo",
+            "text_nl": "Geen risico",
+            "text_de": "Kein Risiko"
+        },
+        {
+            "id": "na",
+            "text_en": "N/A",
+            "text_fr": "Sans objet",
+            "text_es": "N/A",
+            "text_nl": "N.v.t.",
+            "text_de": "Nicht anwendbar"
+        }
+    ]
+}
