@@ -5,45 +5,10 @@
         "description": "Language names in five languages"
     },
     "languages": [
-        {
-            "id": "en",
-            "text_en": "English",
-            "text_fr": "Anglais",
-            "text_es": "Inglés",
-            "text_nl": "Engels",
-            "text_de": "Englisch"
-        },
-        {
-            "id": "fr",
-            "text_en": "French",
-            "text_fr": "Français",
-            "text_es": "Francés",
-            "text_nl": "Frans",
-            "text_de": "Französisch"
-        },
-        {
-            "id": "es",
-            "text_en": "Spanish",
-            "text_fr": "Espagnol",
-            "text_es": "Español",
-            "text_nl": "Spaans",
-            "text_de": "Spanisch"
-        },
-        {
-            "id": "nl",
-            "text_en": "Dutch",
-            "text_fr": "Néerlandais",
-            "text_es": "Neerlandés",
-            "text_nl": "Nederlands",
-            "text_de": "Niederländisch"
-        },
-        {
-            "id": "de",
-            "text_en": "German",
-            "text_fr": "Allemand",
-            "text_es": "Alemán",
-            "text_nl": "Duits",
-            "text_de": "Deutsch"
-        }
-    ]
+      { "id": "en", "text": "English" },
+      { "id": "fr", "text": "Français" },
+      { "id": "es", "text": "Español" },
+      { "id": "nl", "text": "Nederlands" },
+      { "id": "de", "text": "Deutsch" }
+  ]
 }
