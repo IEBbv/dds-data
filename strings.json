@@ -116,6 +116,15 @@
       "text_es": "Empresa",
       "text_nl": "Bedrijf",
       "text_de": "Unternehmen"
+    },
+    {
+      "id": "risk_assessment",
+      "en": "Risk Assessment",
+      "fr": "Évaluation des risques",
+      "es": "Evaluación de riesgos",
+      "nl": "Risicobeoordeling",
+      "de": "Risikobewertung"
     }
+
   ]
 }
