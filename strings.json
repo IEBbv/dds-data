@@ -124,6 +124,47 @@
       "text_es": "Evaluación de riesgos",
       "text_nl": "Risicobeoordeling",
       "text_de": "Risikobewertung"
+    },
+        {
+        "id": "label_reference",
+        "text_en": "Reference",
+        "text_fr": "Référence",
+        "text_es": "Referencia",
+        "text_nl": "Referentie",
+        "text_de": "Referenz"
+    },
+    {
+        "id": "label_category",
+        "text_en": "Category",
+        "text_fr": "Catégorie",
+        "text_es": "Categoría",
+        "text_nl": "Categorie",
+        "text_de": "Kategorie"
+    },
+    {
+        "id": "label_criteria",
+        "text_en": "Criteria",
+        "text_fr": "Critères",
+        "text_es": "Criterios",
+        "text_nl": "Criteria",
+        "text_de": "Kriterien"
+    },
+    {
+        "id": "label_risk",
+        "text_en": "Risk",
+        "text_fr": "Risque",
+        "text_es": "Riesgo",
+        "text_nl": "Risico",
+        "text_de": "Risiko"
+    },
+    {
+        "id": "label_explanation",
+        "text_en": "Explanation",
+        "text_fr": "Explication",
+        "text_es": "Explicación",
+        "text_nl": "Toelichting",
+        "text_de": "Erläuterung"
     }
+
   ]
 }
