@@ -18,12 +18,8 @@
       "criteria_xx": "Criterion text in language xx (en, fr, es, nl, de)",
       "is_eudr": "Boolean or null; to be edited manually to indicate if this criterion only applies to EUDR (true) or not (false)",
       "level": "String or null; to be edited manually: one of 'country', 'supplier', 'product', 'delivery'",
-      "default_value": {
-        "0": "N/A",
-        "1": "No risk",
-        "2": "Negligible risk",
-        "3": "Non-negligible risk"
-      }
+      "default_value": "0 = 'N/A', 1 = 'No risk', 2 = 'Negligible risk', 3 = 'Non-negligible risk'"
+    }
   },
   "criteria": [
     {
