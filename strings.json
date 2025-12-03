@@ -172,6 +172,30 @@
       "text_es": "Pruebas",
       "text_nl": "Bewijs",
       "text_de": "Nachweise"
+    },
+        {
+        "id": "label_cpi_full",
+        "text_en": "Corruption Perceptions Index",
+        "text_fr": "Indice de perception de la corruption",
+        "text_es": "Índice de Percepción de la Corrupción",
+        "text_nl": "Corruption Perceptions Index",
+        "text_de": "Korruptionswahrnehmungsindex"
+    },
+    {
+        "id": "label_rank",
+        "text_en": "Rank",
+        "text_fr": "Rang",
+        "text_es": "Rango",
+        "text_nl": "Rang",
+        "text_de": "Rang"
+    },
+    {
+        "id": "label_cpi_score",
+        "text_en": "CPI score",
+        "text_fr": "Score CPI",
+        "text_es": "Puntuación CPI",
+        "text_nl": "CPI-score",
+        "text_de": "CPI-Wert"
     }
   ]
 }
