@@ -196,6 +196,14 @@
         "text_es": "Puntuación CPI",
         "text_nl": "CPI-score",
         "text_de": "CPI-Wert"
+    },
+        {
+        "id": "label_source",
+        "text_en": "Source",
+        "text_fr": "Source",
+        "text_es": "Fuente",
+        "text_nl": "Bron",
+        "text_de": "Quelle"
     }
   ]
 }
